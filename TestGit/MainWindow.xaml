@@ -11,8 +11,8 @@
         <DockPanel >
 
             <Label DockPanel.Dock="Top" Content="Asdrubale"/>
-            <Button Content="Cliccami"/>
             <Label DockPanel.Dock="Bottom" VerticalContentAlignment="Bottom" Content="Footer"/>
+            <Button Content="Cliccami"/>
 
         </DockPanel>
 
